@@ -53,3 +53,24 @@
 不知道英文名的可以访问【首页 | Project Amber — 您全新的 Genshin Impact Database (ambr.top)](https://ambr.top/chs/archive/material)，选择您的语言，并寻找您需要的东西，并从网址。
 
 > 比如你搜索“甜甜花”（英文的sweetflower），你会得到URL https://ambr.top/chs/archive/material/100012/sweet-flower，那么100012就是它的ID， sweet-flower 是它的英文名字。
+> # 自动生成
+
+您可以使用以下工具，输入您需要的 ID 来生成 Teleports 的 json 文件。
+
+自动生成工具由 civicmanan#2171 开发。
+
+下载链接：https://wws.lanzouv.com/b03vceopa`[DownloadPassword:1234]`
+
+# 手动收集点
+
+##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
+
+在 2.8 版中包括几乎所有的传送点。
+
+**注：旧文件，不完整**
+
+> 对不起，我不知道作者是谁。
+
+## 1.Featuread
+
+|添加时间 |图片 |姓名/身份证 |世界 |作者/DC ID |
