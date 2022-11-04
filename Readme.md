@@ -1,4 +1,4 @@
-*[中文](https://github.com/Lost-Season/Genshin_Impact_Teleport/blob/main/README-CN.md)
+# [中文](https://github.com/Lost-Season/Genshin_Impact_Teleport/blob/main/README-CN.md)
 
 **2022/10/27 Last Update**
 
