@@ -192,3 +192,4 @@ Pos Json from [nahida_seggs/data at master·snoobi-seggs/nahida_seggs (github.co
 [^3]：在高版本中，您可能无法将其设置为 40m。您只能将其保留为您可以设置的最大数字。
 
 [^4]：同[3]，但是你可以编辑cfg.json来强制改变它。[危险警告！！！]
+
