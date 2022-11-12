@@ -241,3 +241,5 @@ Of course,not all things are included,All issues and PR are welcomed,
 [^3]: In higt version you maybe can't set it to 40m.You only keep it a num which is the bigest you can set.
 
 [^4]: Same as [3], But you can edit cfg.json to force change it.[Dangerous Waring!!!]
+
+
